@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordPattern", "WordPattern\WordPattern.csproj", "{6DAB3A35-FA2B-45E0-AAB0-A319F3C6A8ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonPrefix", "CommonPrefix\CommonPrefix.csproj", "{AD74D086-0D27-45D2-A585-516568EB2CFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonPrefix", "CommonPrefix\CommonPrefix.csproj", "{AD74D086-0D27-45D2-A585-516568EB2CFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{21C7263B-1385-4D2B-B70A-9F8767AA22FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AD74D086-0D27-45D2-A585-516568EB2CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD74D086-0D27-45D2-A585-516568EB2CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD74D086-0D27-45D2-A585-516568EB2CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C7263B-1385-4D2B-B70A-9F8767AA22FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C7263B-1385-4D2B-B70A-9F8767AA22FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C7263B-1385-4D2B-B70A-9F8767AA22FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C7263B-1385-4D2B-B70A-9F8767AA22FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
