@@ -48,7 +48,7 @@ namespace CommonPrefix
                     longestPrefix.Append(ch);
                     i++;
                 }
-            }            
+            }
 
             return longestPrefix.ToString();
         }

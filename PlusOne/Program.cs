@@ -31,7 +31,7 @@
     {
         static void Main(string[] args)
         {
-            var response = PlusOne(new int[] { 9,9,9});
+            var response = PlusOne(new int[] { 9, 9, 9 });
 
             foreach (var i in response)
             {

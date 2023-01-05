@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonPrefix", "CommonPrefi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{21C7263B-1385-4D2B-B70A-9F8767AA22FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.csproj", "{F00128E5-4303-4F3C-80C3-70CF4A653830}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusOne", "PlusOne\PlusOne.csproj", "{F00128E5-4303-4F3C-80C3-70CF4A653830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{8455BC06-954F-4671-AD5F-E155223EAFA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F00128E5-4303-4F3C-80C3-70CF4A653830}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F00128E5-4303-4F3C-80C3-70CF4A653830}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F00128E5-4303-4F3C-80C3-70CF4A653830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8455BC06-954F-4671-AD5F-E155223EAFA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8455BC06-954F-4671-AD5F-E155223EAFA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8455BC06-954F-4671-AD5F-E155223EAFA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8455BC06-954F-4671-AD5F-E155223EAFA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

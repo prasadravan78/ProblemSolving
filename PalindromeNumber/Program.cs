@@ -43,7 +43,7 @@
 
             while (parameter > 0)
             {
-                reversedNumber = reversedNumber * 10 +(parameter % 10);
+                reversedNumber = reversedNumber * 10 + (parameter % 10);
                 parameter = parameter / 10;
             }
 
