@@ -30,9 +30,9 @@
         }
 
         public static int LengthOfLastWord(string s)
-        {            
+        {
             s = s.TrimEnd();
-            var count = s.Length-1;
+            var count = s.Length - 1;
 
             while (count >= 0 && !Char.IsWhiteSpace(s[count]))
             {
