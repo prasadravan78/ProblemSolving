@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008.MaxPoints", "MaxPoints\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009.BinaryTreePreorderTraversal", "BinaryTreePreorderTraversal\009.BinaryTreePreorderTraversal.csproj", "{DE29B842-D06B-4B8E-86A2-9A6ABE07F1F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010.SameTree", "SameTree\010.SameTree.csproj", "{C649831B-9644-4376-B59E-23BBD01BDDF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010.SameTree", "SameTree\010.SameTree.csproj", "{C649831B-9644-4376-B59E-23BBD01BDDF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011.MinimumTimeTreeApple", "11.MinimumTimeTreeApple\011.MinimumTimeTreeApple.csproj", "{688B0827-1ED7-42EF-972F-BD636486DD14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011.MinimumTimeTreeApple", "11.MinimumTimeTreeApple\011.MinimumTimeTreeApple.csproj", "{688B0827-1ED7-42EF-972F-BD636486DD14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012NumberOfNodesInSubTree", "012NumberOfNodesInSubTree\012NumberOfNodesInSubTree.csproj", "{F860442E-386B-4DB1-9DE2-182CEEE344A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{688B0827-1ED7-42EF-972F-BD636486DD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{688B0827-1ED7-42EF-972F-BD636486DD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{688B0827-1ED7-42EF-972F-BD636486DD14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F860442E-386B-4DB1-9DE2-182CEEE344A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F860442E-386B-4DB1-9DE2-182CEEE344A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F860442E-386B-4DB1-9DE2-182CEEE344A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F860442E-386B-4DB1-9DE2-182CEEE344A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
