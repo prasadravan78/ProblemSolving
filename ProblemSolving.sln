@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011.MinimumTimeTreeApple", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "012NumberOfNodesInSubTree", "012NumberOfNodesInSubTree\012NumberOfNodesInSubTree.csproj", "{F860442E-386B-4DB1-9DE2-182CEEE344A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013LongestPath", "013LongestPath\013LongestPath.csproj", "{BD271422-ECDF-48A0-BB9B-305BC2804869}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "013LongestPath", "013LongestPath\013LongestPath.csproj", "{BD271422-ECDF-48A0-BB9B-305BC2804869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014LexicographicallySmallestEquivalentString", "014LexicographicallySmallestEquivalentString\014LexicographicallySmallestEquivalentString.csproj", "{6D02D941-2127-4FA5-BCCF-6F2C6C97A7C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{BD271422-ECDF-48A0-BB9B-305BC2804869}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD271422-ECDF-48A0-BB9B-305BC2804869}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD271422-ECDF-48A0-BB9B-305BC2804869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D02D941-2127-4FA5-BCCF-6F2C6C97A7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D02D941-2127-4FA5-BCCF-6F2C6C97A7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D02D941-2127-4FA5-BCCF-6F2C6C97A7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D02D941-2127-4FA5-BCCF-6F2C6C97A7C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
