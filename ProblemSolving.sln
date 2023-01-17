@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "015RemoveDuplicatesFromArra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "015RemoveElement", "015RemoveElement\015RemoveElement.csproj", "{3E6C6F9F-6DF9-425D-A7AD-B33244047091}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016InsertInterval", "016InsertInterval\016InsertInterval.csproj", "{AFE6C181-5755-44B7-92DB-414F5193A709}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "016InsertInterval", "016InsertInterval\016InsertInterval.csproj", "{AFE6C181-5755-44B7-92DB-414F5193A709}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017FlipStringMonotone", "017FlipStringMonotone\017FlipStringMonotone.csproj", "{65799DE3-7A5D-4E6B-B9F8-608214DCC322}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{AFE6C181-5755-44B7-92DB-414F5193A709}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFE6C181-5755-44B7-92DB-414F5193A709}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFE6C181-5755-44B7-92DB-414F5193A709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65799DE3-7A5D-4E6B-B9F8-608214DCC322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65799DE3-7A5D-4E6B-B9F8-608214DCC322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65799DE3-7A5D-4E6B-B9F8-608214DCC322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65799DE3-7A5D-4E6B-B9F8-608214DCC322}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
