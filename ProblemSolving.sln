@@ -3,27 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001.WordPattern", "WordPattern\001.WordPattern.csproj", "{6DAB3A35-FA2B-45E0-AAB0-A319F3C6A8ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001.WordPattern", "001WordPattern\001.WordPattern.csproj", "{6DAB3A35-FA2B-45E0-AAB0-A319F3C6A8ED}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002.CommonPrefix", "CommonPrefix\002.CommonPrefix.csproj", "{AD74D086-0D27-45D2-A585-516568EB2CFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002.CommonPrefix", "002CommonPrefix\002.CommonPrefix.csproj", "{AD74D086-0D27-45D2-A585-516568EB2CFE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003.PalindromeNumber", "PalindromeNumber\003.PalindromeNumber.csproj", "{21C7263B-1385-4D2B-B70A-9F8767AA22FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003.PalindromeNumber", "003PalindromeNumber\003.PalindromeNumber.csproj", "{21C7263B-1385-4D2B-B70A-9F8767AA22FE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004.PlusOne", "PlusOne\004.PlusOne.csproj", "{F00128E5-4303-4F3C-80C3-70CF4A653830}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004.PlusOne", "004PlusOne\004.PlusOne.csproj", "{F00128E5-4303-4F3C-80C3-70CF4A653830}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005.LengthOfLastWord", "LengthOfLastWord\005.LengthOfLastWord.csproj", "{8455BC06-954F-4671-AD5F-E155223EAFA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005.LengthOfLastWord", "005LengthOfLastWord\005.LengthOfLastWord.csproj", "{8455BC06-954F-4671-AD5F-E155223EAFA5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006.ValidParentheses", "ValidParentheses\006.ValidParentheses.csproj", "{E4D5F164-E3A3-4B51-9B57-87EE207689E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006.ValidParentheses", "006ValidParentheses\006.ValidParentheses.csproj", "{E4D5F164-E3A3-4B51-9B57-87EE207689E2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007.GasStation", "GasStation\007.GasStation.csproj", "{52E3ECCC-9D6B-4917-BAB1-032893427BF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007.GasStation", "007GasStation\007.GasStation.csproj", "{52E3ECCC-9D6B-4917-BAB1-032893427BF4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008.MaxPoints", "MaxPoints\008.MaxPoints.csproj", "{CEEE67F9-482C-4FF4-BA73-4A0F8A90C2D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008.MaxPoints", "008MaxPoints\008.MaxPoints.csproj", "{CEEE67F9-482C-4FF4-BA73-4A0F8A90C2D8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009.BinaryTreePreorderTraversal", "BinaryTreePreorderTraversal\009.BinaryTreePreorderTraversal.csproj", "{DE29B842-D06B-4B8E-86A2-9A6ABE07F1F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009.BinaryTreePreorderTraversal", "009BinaryTreePreorderTraversal\009.BinaryTreePreorderTraversal.csproj", "{DE29B842-D06B-4B8E-86A2-9A6ABE07F1F1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010.SameTree", "SameTree\010.SameTree.csproj", "{C649831B-9644-4376-B59E-23BBD01BDDF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010.SameTree", "010SameTree\010.SameTree.csproj", "{C649831B-9644-4376-B59E-23BBD01BDDF5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011.MinimumTimeTreeApple", "11.MinimumTimeTreeApple\011.MinimumTimeTreeApple.csproj", "{688B0827-1ED7-42EF-972F-BD636486DD14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011.MinimumTimeTreeApple", "011MinimumTimeTreeApple\011.MinimumTimeTreeApple.csproj", "{688B0827-1ED7-42EF-972F-BD636486DD14}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "012NumberOfNodesInSubTree", "012NumberOfNodesInSubTree\012NumberOfNodesInSubTree.csproj", "{F860442E-386B-4DB1-9DE2-182CEEE344A9}"
 EndProject
