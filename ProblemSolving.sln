@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "018MaximumSumCircularSubarr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "019SubarraySums", "019SubarraySums\019SubarraySums.csproj", "{2DBD9EAD-C7B2-4DBE-B8A8-3D52624ABFB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020NonDecreasingSequence", "020NonDecreasingSequence\020NonDecreasingSequence.csproj", "{B7B18B58-265F-4812-A6B4-BE7E742F0799}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "020NonDecreasingSequence", "020NonDecreasingSequence\020NonDecreasingSequence.csproj", "{B7B18B58-265F-4812-A6B4-BE7E742F0799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021RestoreIPAddress", "021RestoreIPAddress\021RestoreIPAddress.csproj", "{ED4FA30F-E46F-44EB-9347-F82630C3C655}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{B7B18B58-265F-4812-A6B4-BE7E742F0799}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7B18B58-265F-4812-A6B4-BE7E742F0799}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7B18B58-265F-4812-A6B4-BE7E742F0799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED4FA30F-E46F-44EB-9347-F82630C3C655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED4FA30F-E46F-44EB-9347-F82630C3C655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED4FA30F-E46F-44EB-9347-F82630C3C655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4FA30F-E46F-44EB-9347-F82630C3C655}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
