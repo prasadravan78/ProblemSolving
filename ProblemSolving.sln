@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021RestoreIPAddress", "021R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022PalindromePartitioning", "022PalindromePartitioning\022PalindromePartitioning.csproj", "{55017780-1B8D-466D-BCBC-E9E1E6175716}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "023FindTownJudge", "023FindTownJudge\023FindTownJudge.csproj", "{00C3A654-58F3-4E87-B0EB-27FC147D758D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{55017780-1B8D-466D-BCBC-E9E1E6175716}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55017780-1B8D-466D-BCBC-E9E1E6175716}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55017780-1B8D-466D-BCBC-E9E1E6175716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00C3A654-58F3-4E87-B0EB-27FC147D758D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C3A654-58F3-4E87-B0EB-27FC147D758D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C3A654-58F3-4E87-B0EB-27FC147D758D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C3A654-58F3-4E87-B0EB-27FC147D758D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
