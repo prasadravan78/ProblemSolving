@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022PalindromePartitioning",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "023FindTownJudge", "023FindTownJudge\023FindTownJudge.csproj", "{00C3A654-58F3-4E87-B0EB-27FC147D758D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "023AlternatingDigitSum", "023AlternatingDigitSum\023AlternatingDigitSum.csproj", "{158BD03F-771F-4BF9-B51A-A5A6060EF3CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{00C3A654-58F3-4E87-B0EB-27FC147D758D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00C3A654-58F3-4E87-B0EB-27FC147D758D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00C3A654-58F3-4E87-B0EB-27FC147D758D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{158BD03F-771F-4BF9-B51A-A5A6060EF3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158BD03F-771F-4BF9-B51A-A5A6060EF3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158BD03F-771F-4BF9-B51A-A5A6060EF3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158BD03F-771F-4BF9-B51A-A5A6060EF3CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
