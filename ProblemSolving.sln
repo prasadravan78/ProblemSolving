@@ -47,13 +47,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "019SubarraySums", "019Subar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "020NonDecreasingSequence", "020NonDecreasingSequence\020NonDecreasingSequence.csproj", "{B7B18B58-265F-4812-A6B4-BE7E742F0799}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021RestoreIPAddress", "021RestoreIPAddress\021RestoreIPAddress.csproj", "{ED4FA30F-E46F-44EB-9347-F82630C3C655}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "021RestoreIPAddress", "021RestoreIPAddress\021RestoreIPAddress.csproj", "{ED4FA30F-E46F-44EB-9347-F82630C3C655}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022PalindromePartitioning", "022PalindromePartitioning\022PalindromePartitioning.csproj", "{55017780-1B8D-466D-BCBC-E9E1E6175716}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "022PalindromePartitioning", "022PalindromePartitioning\022PalindromePartitioning.csproj", "{55017780-1B8D-466D-BCBC-E9E1E6175716}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "023FindTownJudge", "023FindTownJudge\023FindTownJudge.csproj", "{00C3A654-58F3-4E87-B0EB-27FC147D758D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "023FindTownJudge", "023FindTownJudge\023FindTownJudge.csproj", "{00C3A654-58F3-4E87-B0EB-27FC147D758D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "023AlternatingDigitSum", "023AlternatingDigitSum\023AlternatingDigitSum.csproj", "{158BD03F-771F-4BF9-B51A-A5A6060EF3CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "023AlternatingDigitSum", "023AlternatingDigitSum\023AlternatingDigitSum.csproj", "{158BD03F-771F-4BF9-B51A-A5A6060EF3CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024SnakesAndLadders", "024SnakesAndLadders\024SnakesAndLadders.csproj", "{EA6909F3-A206-4AFF-B156-9FFE8117FDCF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{158BD03F-771F-4BF9-B51A-A5A6060EF3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{158BD03F-771F-4BF9-B51A-A5A6060EF3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{158BD03F-771F-4BF9-B51A-A5A6060EF3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA6909F3-A206-4AFF-B156-9FFE8117FDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6909F3-A206-4AFF-B156-9FFE8117FDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6909F3-A206-4AFF-B156-9FFE8117FDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6909F3-A206-4AFF-B156-9FFE8117FDCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
