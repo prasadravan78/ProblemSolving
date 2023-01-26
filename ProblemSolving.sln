@@ -57,7 +57,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "023AlternatingDigitSum", "0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "024SnakesAndLadders", "024SnakesAndLadders\024SnakesAndLadders.csproj", "{EA6909F3-A206-4AFF-B156-9FFE8117FDCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "025ClosestNode", "025ClosestNode\025ClosestNode.csproj", "{752971F6-BCFA-462C-A833-B4E44C52A303}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "025ClosestNode", "025ClosestNode\025ClosestNode.csproj", "{752971F6-BCFA-462C-A833-B4E44C52A303}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "026CheapestFlights", "026CheapestFlights\026CheapestFlights.csproj", "{53253389-0331-428D-901B-0417F85CBEAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{752971F6-BCFA-462C-A833-B4E44C52A303}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{752971F6-BCFA-462C-A833-B4E44C52A303}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{752971F6-BCFA-462C-A833-B4E44C52A303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53253389-0331-428D-901B-0417F85CBEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53253389-0331-428D-901B-0417F85CBEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53253389-0331-428D-901B-0417F85CBEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53253389-0331-428D-901B-0417F85CBEAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

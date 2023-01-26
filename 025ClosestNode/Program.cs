@@ -34,11 +34,13 @@
             HashSet<int> v1 = new(), v2 = new();
             Queue<int> q1 = new(new[] { node1 }), q2 = new(new[] { node2 });
             int closest = int.MaxValue;
+
             while ((q1.Count > 0 || q2.Count > 0) && closest == int.MaxValue)
             {
                 for (int count = q1.Count; count > 0; count--)
                 {
                     int node = q1.Dequeue();
+
                     if (v1.Add(node))
                     {
                         if (v2.Contains(node))
@@ -51,9 +53,11 @@
                         }
                     }
                 }
+
                 for (int count = q2.Count; count > 0; count--)
                 {
                     int node = q2.Dequeue();
+
                     if (v2.Add(node))
                     {
                         if (v1.Contains(node))
@@ -67,8 +71,8 @@
                     }
                 }
             }
-            return closest == int.MaxValue ? -1 : closest;
 
+            return closest == int.MaxValue ? -1 : closest;
         }
     }
 }
