@@ -63,6 +63,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "026CheapestFlights", "026Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "027ConcatenatedWords", "027ConcatenatedWords\027ConcatenatedWords.csproj", "{6A566135-A806-4418-9FBA-F4A43C1F4916}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "028DataStreamDisjointIntervals", "028DataStreamDisjointIntervals\028DataStreamDisjointIntervals.csproj", "{5BD1671D-359A-465C-8F73-9BCCD375C01C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{6A566135-A806-4418-9FBA-F4A43C1F4916}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A566135-A806-4418-9FBA-F4A43C1F4916}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A566135-A806-4418-9FBA-F4A43C1F4916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BD1671D-359A-465C-8F73-9BCCD375C01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD1671D-359A-465C-8F73-9BCCD375C01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD1671D-359A-465C-8F73-9BCCD375C01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD1671D-359A-465C-8F73-9BCCD375C01C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

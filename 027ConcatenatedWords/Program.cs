@@ -19,7 +19,10 @@
     {
         static void Main(string[] args)
         {
-            FindAllConcatenatedWordsInADict(new string[] { "cat", "cats", "catsdogcats", "dog", "dogcatsdog", "hippopotamuses", "rat", "ratcatdogcat" }).ToList().ForEach(k=> Console.WriteLine(k));
+            FindAllConcatenatedWordsInADict(new string[] { "cat", "cats", "catsdogcats", "dog", "dogcatsdog", "hippopotamuses", "rat", "ratcatdogcat" })
+                .ToList()
+                .ForEach(k=> Console.WriteLine(k));
+
             Console.ReadLine();
         }
 
