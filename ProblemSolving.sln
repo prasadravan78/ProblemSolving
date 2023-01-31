@@ -67,7 +67,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "028DataStreamDisjointInterv
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "029LFUCache", "029LFUCache\029LFUCache.csproj", "{8FC49E3C-F9ED-4201-90A5-299AA44D8100}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "030NthTribonacciNumber", "030NthTribonacciNumber\030NthTribonacciNumber.csproj", "{0FA048FD-BDA7-4384-AF74-4D55EB50B202}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "030NthTribonacciNumber", "030NthTribonacciNumber\030NthTribonacciNumber.csproj", "{0FA048FD-BDA7-4384-AF74-4D55EB50B202}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "031BestTeamScore", "031BestTeamScore\031BestTeamScore.csproj", "{CC0BA2E8-EE3F-4FDF-96D9-45A08ED732B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +209,10 @@ Global
 		{0FA048FD-BDA7-4384-AF74-4D55EB50B202}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FA048FD-BDA7-4384-AF74-4D55EB50B202}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FA048FD-BDA7-4384-AF74-4D55EB50B202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC0BA2E8-EE3F-4FDF-96D9-45A08ED732B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0BA2E8-EE3F-4FDF-96D9-45A08ED732B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0BA2E8-EE3F-4FDF-96D9-45A08ED732B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0BA2E8-EE3F-4FDF-96D9-45A08ED732B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
