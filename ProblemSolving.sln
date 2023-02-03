@@ -73,7 +73,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "031BestTeamScore", "031Best
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "032GreatestCommonDivisorOfStrings", "032GreatestCommonDivisorOfStrings\032GreatestCommonDivisorOfStrings.csproj", "{26B1333A-8E15-4FC6-8D74-EDB31A275F5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "033VerifyingAlienDictionary", "033VerifyingAlienDictionary\033VerifyingAlienDictionary.csproj", "{06FD5CD5-25EC-4853-9A8F-ED5EC6FF756D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "033VerifyingAlienDictionary", "033VerifyingAlienDictionary\033VerifyingAlienDictionary.csproj", "{06FD5CD5-25EC-4853-9A8F-ED5EC6FF756D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "034ZigzagConversion", "034ZigzagConversion\034ZigzagConversion.csproj", "{F3F449C1-914D-4ADD-B746-0B8DA17FCD1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +227,10 @@ Global
 		{06FD5CD5-25EC-4853-9A8F-ED5EC6FF756D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06FD5CD5-25EC-4853-9A8F-ED5EC6FF756D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06FD5CD5-25EC-4853-9A8F-ED5EC6FF756D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F449C1-914D-4ADD-B746-0B8DA17FCD1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F449C1-914D-4ADD-B746-0B8DA17FCD1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F449C1-914D-4ADD-B746-0B8DA17FCD1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F449C1-914D-4ADD-B746-0B8DA17FCD1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
