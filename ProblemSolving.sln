@@ -79,7 +79,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "034ZigzagConversion", "034Z
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "035PermutationInString", "035PermutationInString\035PermutationInString.csproj", "{647E96B9-6EED-4710-AD03-2F1DC09C6721}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "036AllAnagrams", "036AllAnagrams\036AllAnagrams.csproj", "{6C6E664E-2A82-4908-9E5F-3FC17B7B7A6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "036AllAnagrams", "036AllAnagrams\036AllAnagrams.csproj", "{6C6E664E-2A82-4908-9E5F-3FC17B7B7A6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "037ShuffleTheArray", "037ShuffleTheArray\037ShuffleTheArray.csproj", "{2BED4C0A-77D1-4309-87CF-66F3676DE378}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -243,6 +245,10 @@ Global
 		{6C6E664E-2A82-4908-9E5F-3FC17B7B7A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C6E664E-2A82-4908-9E5F-3FC17B7B7A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C6E664E-2A82-4908-9E5F-3FC17B7B7A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BED4C0A-77D1-4309-87CF-66F3676DE378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BED4C0A-77D1-4309-87CF-66F3676DE378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BED4C0A-77D1-4309-87CF-66F3676DE378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BED4C0A-77D1-4309-87CF-66F3676DE378}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
