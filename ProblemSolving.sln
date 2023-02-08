@@ -83,7 +83,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "036AllAnagrams", "036AllAna
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "037ShuffleTheArray", "037ShuffleTheArray\037ShuffleTheArray.csproj", "{2BED4C0A-77D1-4309-87CF-66F3676DE378}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "038FruitIntoBaskets", "038FruitIntoBaskets\038FruitIntoBaskets.csproj", "{2671E522-7D9F-40B4-BD8A-772696AA08BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "038FruitIntoBaskets", "038FruitIntoBaskets\038FruitIntoBaskets.csproj", "{2671E522-7D9F-40B4-BD8A-772696AA08BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "039JumpGame", "039JumpGame\039JumpGame.csproj", "{2F0D246D-CDDA-4C69-AD67-B125FDCC125B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -255,6 +257,10 @@ Global
 		{2671E522-7D9F-40B4-BD8A-772696AA08BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2671E522-7D9F-40B4-BD8A-772696AA08BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2671E522-7D9F-40B4-BD8A-772696AA08BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F0D246D-CDDA-4C69-AD67-B125FDCC125B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0D246D-CDDA-4C69-AD67-B125FDCC125B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0D246D-CDDA-4C69-AD67-B125FDCC125B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0D246D-CDDA-4C69-AD67-B125FDCC125B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
