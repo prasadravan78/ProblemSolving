@@ -95,6 +95,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "042ShortestPathAlternatingC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "043MinimumFuelCostCapital", "043MinimumFuelCostCapital\043MinimumFuelCostCapital.csproj", "{4FADC6B0-E51F-4813-831F-D62BE2ECB611}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "044CountOddNumbersInRange", "044CountOddNumbersInRange\044CountOddNumbersInRange.csproj", "{B834B391-05F0-4B34-9F63-9C675A92B293}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -285,6 +287,10 @@ Global
 		{4FADC6B0-E51F-4813-831F-D62BE2ECB611}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FADC6B0-E51F-4813-831F-D62BE2ECB611}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FADC6B0-E51F-4813-831F-D62BE2ECB611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B834B391-05F0-4B34-9F63-9C675A92B293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B834B391-05F0-4B34-9F63-9C675A92B293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B834B391-05F0-4B34-9F63-9C675A92B293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B834B391-05F0-4B34-9F63-9C675A92B293}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
