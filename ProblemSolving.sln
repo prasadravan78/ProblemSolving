@@ -93,9 +93,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "041FarLand", "041FarLand\04
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "042ShortestPathAlternatingColors", "042ShortestPathAlternatingColors\042ShortestPathAlternatingColors.csproj", "{B1ED42E1-6EF9-46C8-B802-BDD0DFED237F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "043MinimumFuelCostCapital", "043MinimumFuelCostCapital\043MinimumFuelCostCapital.csproj", "{4FADC6B0-E51F-4813-831F-D62BE2ECB611}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "043MinimumFuelCostCapital", "043MinimumFuelCostCapital\043MinimumFuelCostCapital.csproj", "{4FADC6B0-E51F-4813-831F-D62BE2ECB611}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "044CountOddNumbersInRange", "044CountOddNumbersInRange\044CountOddNumbersInRange.csproj", "{B834B391-05F0-4B34-9F63-9C675A92B293}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "044CountOddNumbersInRange", "044CountOddNumbersInRange\044CountOddNumbersInRange.csproj", "{B834B391-05F0-4B34-9F63-9C675A92B293}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "045AddBinary", "045AddBinary\045AddBinary.csproj", "{5C0DA3B0-7FE8-494A-9229-C13364095F39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -291,6 +293,10 @@ Global
 		{B834B391-05F0-4B34-9F63-9C675A92B293}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B834B391-05F0-4B34-9F63-9C675A92B293}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B834B391-05F0-4B34-9F63-9C675A92B293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C0DA3B0-7FE8-494A-9229-C13364095F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0DA3B0-7FE8-494A-9229-C13364095F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0DA3B0-7FE8-494A-9229-C13364095F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0DA3B0-7FE8-494A-9229-C13364095F39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
