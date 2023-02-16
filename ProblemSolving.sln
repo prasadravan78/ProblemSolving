@@ -99,7 +99,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "044CountOddNumbersInRange",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "045AddBinary", "045AddBinary\045AddBinary.csproj", "{5C0DA3B0-7FE8-494A-9229-C13364095F39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "046AddToArrayInteger", "046AddToArrayInteger\046AddToArrayInteger.csproj", "{2FDE3A32-F3C2-40CA-B3A5-BA0E30930268}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "046AddToArrayInteger", "046AddToArrayInteger\046AddToArrayInteger.csproj", "{2FDE3A32-F3C2-40CA-B3A5-BA0E30930268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "047MaximumDepthBinaryArray", "047MaximumDepthBinaryArray\047MaximumDepthBinaryArray.csproj", "{A4DED15E-466D-45F5-A5D0-AF3B3B860F8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -303,6 +305,10 @@ Global
 		{2FDE3A32-F3C2-40CA-B3A5-BA0E30930268}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FDE3A32-F3C2-40CA-B3A5-BA0E30930268}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FDE3A32-F3C2-40CA-B3A5-BA0E30930268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4DED15E-466D-45F5-A5D0-AF3B3B860F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4DED15E-466D-45F5-A5D0-AF3B3B860F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4DED15E-466D-45F5-A5D0-AF3B3B860F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4DED15E-466D-45F5-A5D0-AF3B3B860F8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
