@@ -105,9 +105,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "047MaximumDepthBinaryArray"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "048MinimumDistanceBetweenBSTNodes", "048MinimumDistanceBetweenBSTNodes\048MinimumDistanceBetweenBSTNodes.csproj", "{AF0A0163-7A55-4C87-98CE-7757A26ACB18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "049InvertBinaryTree", "049InvertBinaryTree\049InvertBinaryTree.csproj", "{A3705CAD-9D68-443D-84DC-18E9B93F1551}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "049InvertBinaryTree", "049InvertBinaryTree\049InvertBinaryTree.csproj", "{A3705CAD-9D68-443D-84DC-18E9B93F1551}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "050BinaryTreeZigzagTraversal", "050BinaryTreeZigzagTraversal\050BinaryTreeZigzagTraversal.csproj", "{CE55C1C2-D459-490B-87BB-D7C5CDF9AD7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "050BinaryTreeZigzagTraversal", "050BinaryTreeZigzagTraversal\050BinaryTreeZigzagTraversal.csproj", "{CE55C1C2-D459-490B-87BB-D7C5CDF9AD7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "051SearchInsertPosition", "051SearchInsertPosition\051SearchInsertPosition.csproj", "{B76CD5DC-C5F3-4350-9828-708E032B4ED2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -327,6 +329,10 @@ Global
 		{CE55C1C2-D459-490B-87BB-D7C5CDF9AD7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE55C1C2-D459-490B-87BB-D7C5CDF9AD7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE55C1C2-D459-490B-87BB-D7C5CDF9AD7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B76CD5DC-C5F3-4350-9828-708E032B4ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76CD5DC-C5F3-4350-9828-708E032B4ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76CD5DC-C5F3-4350-9828-708E032B4ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76CD5DC-C5F3-4350-9828-708E032B4ED2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
