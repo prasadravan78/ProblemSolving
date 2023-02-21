@@ -109,7 +109,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "049InvertBinaryTree", "049I
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "050BinaryTreeZigzagTraversal", "050BinaryTreeZigzagTraversal\050BinaryTreeZigzagTraversal.csproj", "{CE55C1C2-D459-490B-87BB-D7C5CDF9AD7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "051SearchInsertPosition", "051SearchInsertPosition\051SearchInsertPosition.csproj", "{B76CD5DC-C5F3-4350-9828-708E032B4ED2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "051SearchInsertPosition", "051SearchInsertPosition\051SearchInsertPosition.csproj", "{B76CD5DC-C5F3-4350-9828-708E032B4ED2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "052SingleElementSortedArray", "052SingleElementSortedArray\052SingleElementSortedArray.csproj", "{A3411527-7F7D-485E-8B80-6FCB5C17E628}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -333,6 +335,10 @@ Global
 		{B76CD5DC-C5F3-4350-9828-708E032B4ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B76CD5DC-C5F3-4350-9828-708E032B4ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B76CD5DC-C5F3-4350-9828-708E032B4ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3411527-7F7D-485E-8B80-6FCB5C17E628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3411527-7F7D-485E-8B80-6FCB5C17E628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3411527-7F7D-485E-8B80-6FCB5C17E628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3411527-7F7D-485E-8B80-6FCB5C17E628}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
