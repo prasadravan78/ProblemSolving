@@ -33,35 +33,36 @@
 
         public static int FindMaximizedCapital(int k, int w, int[] profits, int[] capital)
         {
-            int sum = w;
-            Dictionary<int, bool> visited = new Dictionary<int, bool>(k);
+            var projects = new List<(int capital, int profit)>();
 
-            if (k == profits.Length)
+            for (var i = 0; i < profits.Length; i++)
             {
-                return w + profits.Sum();
+                projects.Add((capital[i], profits[i]));
             }
 
-            for (int x = 0; x < k; ++x)
-            {
-                int maxProfitInd = -1;
-                int maxProfit = -1;
+            projects = projects.OrderBy(x => x.capital).ToList();
 
-                for (int i = 0; i < profits.Length; ++i)
+            var queue = new PriorityQueue<int, int>();
+
+            var completedProjects = 0;
+
+            while (k-- > 0)
+            {
+                while (completedProjects < projects.Count && projects[completedProjects].capital <= w)
                 {
-                    if (capital[i] <= sum && !visited.ContainsKey(i) && profits[i] > maxProfit)
-                    {
-                        maxProfit = profits[i];
-                        maxProfitInd = i;
-                    }
+                    queue.Enqueue(projects[completedProjects].profit, int.MaxValue - projects[completedProjects].profit);
+                    completedProjects++;
                 }
-                if (maxProfitInd != -1)
+
+                if (queue.Count == 0)
                 {
-                    visited.Add(maxProfitInd, false);
-                    sum += maxProfit;
+                    break;
                 }
+
+                w += queue.Dequeue();
             }
 
-            return sum;
+            return w;
         }
     }
 }
