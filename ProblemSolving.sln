@@ -115,9 +115,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "052SingleElementSortedArray
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "053CapacityToShip", "053CapacityToShip\053CapacityToShip.csproj", "{D54214EE-689C-4E82-9A21-FBCF7CF4B6D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "054IPO", "054IPO\054IPO.csproj", "{66447F2E-2338-4D87-BA18-A71F13826BA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "054IPO", "054IPO\054IPO.csproj", "{66447F2E-2338-4D87-BA18-A71F13826BA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "055MinimizeDeviation", "055MinimizeDeviation\055MinimizeDeviation.csproj", "{B2EAA29B-3ADC-421A-8A08-E51590CDEDE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "055MinimizeDeviation", "055MinimizeDeviation\055MinimizeDeviation.csproj", "{B2EAA29B-3ADC-421A-8A08-E51590CDEDE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "056BuySellStock", "056BuySellStock\056BuySellStock.csproj", "{15FFC4A2-20A0-4B9B-9E25-970AA13D9CB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -357,6 +359,10 @@ Global
 		{B2EAA29B-3ADC-421A-8A08-E51590CDEDE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2EAA29B-3ADC-421A-8A08-E51590CDEDE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2EAA29B-3ADC-421A-8A08-E51590CDEDE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15FFC4A2-20A0-4B9B-9E25-970AA13D9CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15FFC4A2-20A0-4B9B-9E25-970AA13D9CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15FFC4A2-20A0-4B9B-9E25-970AA13D9CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15FFC4A2-20A0-4B9B-9E25-970AA13D9CB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
