@@ -119,7 +119,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "054IPO", "054IPO\054IPO.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "055MinimizeDeviation", "055MinimizeDeviation\055MinimizeDeviation.csproj", "{B2EAA29B-3ADC-421A-8A08-E51590CDEDE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "056BuySellStock", "056BuySellStock\056BuySellStock.csproj", "{15FFC4A2-20A0-4B9B-9E25-970AA13D9CB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "056BuySellStock", "056BuySellStock\056BuySellStock.csproj", "{15FFC4A2-20A0-4B9B-9E25-970AA13D9CB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "057EditDistance", "057EditDistance\057EditDistance.csproj", "{273F3784-262B-4553-A2FF-29781AFDC5D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -363,6 +365,10 @@ Global
 		{15FFC4A2-20A0-4B9B-9E25-970AA13D9CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15FFC4A2-20A0-4B9B-9E25-970AA13D9CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15FFC4A2-20A0-4B9B-9E25-970AA13D9CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{273F3784-262B-4553-A2FF-29781AFDC5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273F3784-262B-4553-A2FF-29781AFDC5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{273F3784-262B-4553-A2FF-29781AFDC5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{273F3784-262B-4553-A2FF-29781AFDC5D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
