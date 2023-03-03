@@ -129,7 +129,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "059DuplicateSubTree", "059D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "060SortArray", "060SortArray\060SortArray.csproj", "{8E07A581-C414-4C71-8862-1228362D87E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "061StringCompression", "061StringCompression\061StringCompression.csproj", "{5FB288B9-D576-47E1-BF96-80A4F25821A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "061StringCompression", "061StringCompression\061StringCompression.csproj", "{5FB288B9-D576-47E1-BF96-80A4F25821A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "062FirstOccurrenceInString", "062FirstOccurrenceInString\062FirstOccurrenceInString.csproj", "{1DFA9BDE-8DD6-4C29-B163-87A705AE5915}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -393,6 +395,10 @@ Global
 		{5FB288B9-D576-47E1-BF96-80A4F25821A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FB288B9-D576-47E1-BF96-80A4F25821A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FB288B9-D576-47E1-BF96-80A4F25821A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DFA9BDE-8DD6-4C29-B163-87A705AE5915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFA9BDE-8DD6-4C29-B163-87A705AE5915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DFA9BDE-8DD6-4C29-B163-87A705AE5915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DFA9BDE-8DD6-4C29-B163-87A705AE5915}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
