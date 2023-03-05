@@ -133,7 +133,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "061StringCompression", "061
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "062FirstOccurrenceInString", "062FirstOccurrenceInString\062FirstOccurrenceInString.csproj", "{1DFA9BDE-8DD6-4C29-B163-87A705AE5915}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "063CountSubArray", "063CountSubArray\063CountSubArray.csproj", "{3540AA39-2B3C-4006-A6DD-03A4C7044AE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "063CountSubArray", "063CountSubArray\063CountSubArray.csproj", "{3540AA39-2B3C-4006-A6DD-03A4C7044AE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "064JumpGame", "064JumpGame\064JumpGame.csproj", "{9BCEA0D7-770A-49D5-B129-765FA4FA3499}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -405,6 +407,10 @@ Global
 		{3540AA39-2B3C-4006-A6DD-03A4C7044AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3540AA39-2B3C-4006-A6DD-03A4C7044AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3540AA39-2B3C-4006-A6DD-03A4C7044AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BCEA0D7-770A-49D5-B129-765FA4FA3499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCEA0D7-770A-49D5-B129-765FA4FA3499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BCEA0D7-770A-49D5-B129-765FA4FA3499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCEA0D7-770A-49D5-B129-765FA4FA3499}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
