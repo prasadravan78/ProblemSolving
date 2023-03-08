@@ -139,7 +139,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "064JumpGame", "064JumpGame\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "065KthMissingPositiveNumber", "065KthMissingPositiveNumber\065KthMissingPositiveNumber.csproj", "{2E726F6E-BD4F-4ED1-A733-4D8165C33C00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "066MinimumTimeToCompleteTrips", "066MinimumTimeToCompleteTrips\066MinimumTimeToCompleteTrips.csproj", "{3281AEF5-7ADA-4086-B3C6-84DC80A5F9C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "066MinimumTimeToCompleteTrips", "066MinimumTimeToCompleteTrips\066MinimumTimeToCompleteTrips.csproj", "{3281AEF5-7ADA-4086-B3C6-84DC80A5F9C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "067KokoEatingBananas", "067KokoEatingBananas\067KokoEatingBananas.csproj", "{42F05973-302C-4F3B-BC9B-DFC71EC193B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -423,6 +425,10 @@ Global
 		{3281AEF5-7ADA-4086-B3C6-84DC80A5F9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3281AEF5-7ADA-4086-B3C6-84DC80A5F9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3281AEF5-7ADA-4086-B3C6-84DC80A5F9C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F05973-302C-4F3B-BC9B-DFC71EC193B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F05973-302C-4F3B-BC9B-DFC71EC193B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F05973-302C-4F3B-BC9B-DFC71EC193B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F05973-302C-4F3B-BC9B-DFC71EC193B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
