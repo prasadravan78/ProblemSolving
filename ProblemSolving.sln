@@ -147,7 +147,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "068LinkedListCycle", "068Li
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "069LinkedListRandomNode", "069LinkedListRandomNode\069LinkedListRandomNode.csproj", "{78CBD814-F700-4A9B-8A2F-9452E6A22B90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "070SortedListToBinaryTree", "070SortedListToBinaryTree\070SortedListToBinaryTree.csproj", "{347882F1-CA63-4044-85CE-74214AA4DA0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "070SortedListToBinaryTree", "070SortedListToBinaryTree\070SortedListToBinaryTree.csproj", "{347882F1-CA63-4044-85CE-74214AA4DA0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "071MergeSortedLists", "071MergeSortedLists\071MergeSortedLists.csproj", "{B09419E7-AEF3-4497-8CCE-EEA7B6CE2EC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -447,6 +449,10 @@ Global
 		{347882F1-CA63-4044-85CE-74214AA4DA0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{347882F1-CA63-4044-85CE-74214AA4DA0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{347882F1-CA63-4044-85CE-74214AA4DA0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B09419E7-AEF3-4497-8CCE-EEA7B6CE2EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09419E7-AEF3-4497-8CCE-EEA7B6CE2EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09419E7-AEF3-4497-8CCE-EEA7B6CE2EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09419E7-AEF3-4497-8CCE-EEA7B6CE2EC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
