@@ -155,7 +155,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "072SymmetricTree", "072Symm
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "073SumRootLeafNumbers", "073SumRootLeafNumbers\073SumRootLeafNumbers.csproj", "{D6AC77C8-107D-40E4-86C8-E340C2A43A74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "074CompletenessBinaryTree", "074CompletenessBinaryTree\074CompletenessBinaryTree.csproj", "{03FBB415-D137-4E51-AA1B-5A40B47A1321}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "074CompletenessBinaryTree", "074CompletenessBinaryTree\074CompletenessBinaryTree.csproj", "{03FBB415-D137-4E51-AA1B-5A40B47A1321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "075ContructBinaryTree", "075ContructBinaryTree\075ContructBinaryTree.csproj", "{0A651CD7-2A3B-4371-80CE-98468A3FFB51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -471,6 +473,10 @@ Global
 		{03FBB415-D137-4E51-AA1B-5A40B47A1321}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03FBB415-D137-4E51-AA1B-5A40B47A1321}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03FBB415-D137-4E51-AA1B-5A40B47A1321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A651CD7-2A3B-4371-80CE-98468A3FFB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A651CD7-2A3B-4371-80CE-98468A3FFB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A651CD7-2A3B-4371-80CE-98468A3FFB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A651CD7-2A3B-4371-80CE-98468A3FFB51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
