@@ -16,10 +16,10 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine(BuildTree(new int[] { 9, 3, 15, 20, 7}, new int[] { 9, 15, 7, 20, 3 }).val);
         }
 
-        public TreeNode BuildTree(int[] inorder, int[] postorder)
+        public static TreeNode BuildTree(int[] inorder, int[] postorder)
         {
             if (inorder == null || inorder.Length == 0 || postorder == null || postorder.Length == 0)
             {
@@ -29,7 +29,7 @@
             return BuildTree(inorder, 0, inorder.Length - 1, postorder, 0, postorder.Length - 1);
         }
 
-        private TreeNode BuildTree(int[] inorder, int i, int j, int[] postorder, int k, int l)
+        private static TreeNode BuildTree(int[] inorder, int i, int j, int[] postorder, int k, int l)
         {
             if (i > j || k > l)
             {
