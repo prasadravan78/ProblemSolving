@@ -159,7 +159,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "074CompletenessBinaryTree",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "075ContructBinaryTree", "075ContructBinaryTree\075ContructBinaryTree.csproj", "{0A651CD7-2A3B-4371-80CE-98468A3FFB51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "076ImplementTrie", "076ImplementTrie\076ImplementTrie.csproj", "{9283DDFF-4C66-4EBD-A90A-44C02EB37302}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "076ImplementTrie", "076ImplementTrie\076ImplementTrie.csproj", "{9283DDFF-4C66-4EBD-A90A-44C02EB37302}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "077DesignBrowserHistory", "077DesignBrowserHistory\077DesignBrowserHistory.csproj", "{4823F1AC-3E95-45DF-9828-80CA19196317}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -483,6 +485,10 @@ Global
 		{9283DDFF-4C66-4EBD-A90A-44C02EB37302}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9283DDFF-4C66-4EBD-A90A-44C02EB37302}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9283DDFF-4C66-4EBD-A90A-44C02EB37302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4823F1AC-3E95-45DF-9828-80CA19196317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4823F1AC-3E95-45DF-9828-80CA19196317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4823F1AC-3E95-45DF-9828-80CA19196317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4823F1AC-3E95-45DF-9828-80CA19196317}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
