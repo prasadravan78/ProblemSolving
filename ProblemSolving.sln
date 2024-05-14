@@ -163,7 +163,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "076ImplementTrie", "076Impl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "077DesignBrowserHistory", "077DesignBrowserHistory\077DesignBrowserHistory.csproj", "{4823F1AC-3E95-45DF-9828-80CA19196317}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "078WordSearchDataStructure", "078WordSearchDataStructure\078WordSearchDataStructure.csproj", "{6A1F0BA3-7690-4B79-99BB-07A3E8B19937}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "078WordSearchDataStructure", "078WordSearchDataStructure\078WordSearchDataStructure.csproj", "{6A1F0BA3-7690-4B79-99BB-07A3E8B19937}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "079SingleNumber", "079SingleNumber\079SingleNumber.csproj", "{10FFF2A1-85D4-4B10-A5F1-4DDBAA5A4B1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -495,6 +497,10 @@ Global
 		{6A1F0BA3-7690-4B79-99BB-07A3E8B19937}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A1F0BA3-7690-4B79-99BB-07A3E8B19937}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A1F0BA3-7690-4B79-99BB-07A3E8B19937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10FFF2A1-85D4-4B10-A5F1-4DDBAA5A4B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10FFF2A1-85D4-4B10-A5F1-4DDBAA5A4B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10FFF2A1-85D4-4B10-A5F1-4DDBAA5A4B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10FFF2A1-85D4-4B10-A5F1-4DDBAA5A4B1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
