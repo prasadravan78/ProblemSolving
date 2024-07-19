@@ -167,7 +167,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "078WordSearchDataStructure"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "079SingleNumber", "079SingleNumber\079SingleNumber.csproj", "{10FFF2A1-85D4-4B10-A5F1-4DDBAA5A4B1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "080MajorityElement", "080MajorityElement\080MajorityElement.csproj", "{E11AF056-8F75-4152-94E4-8A225E0F1059}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "080MajorityElement", "080MajorityElement\080MajorityElement.csproj", "{E11AF056-8F75-4152-94E4-8A225E0F1059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "081LuckyNumberMatrix", "081LuckyNumberMatrix\081LuckyNumberMatrix.csproj", "{9534E55C-E914-4158-9DE5-6F88BD6042D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -507,6 +509,10 @@ Global
 		{E11AF056-8F75-4152-94E4-8A225E0F1059}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E11AF056-8F75-4152-94E4-8A225E0F1059}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E11AF056-8F75-4152-94E4-8A225E0F1059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9534E55C-E914-4158-9DE5-6F88BD6042D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9534E55C-E914-4158-9DE5-6F88BD6042D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9534E55C-E914-4158-9DE5-6F88BD6042D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9534E55C-E914-4158-9DE5-6F88BD6042D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
